@@ -64,7 +64,8 @@
 - SQL vs NoSQL
 - Memory vs Latency
 - Throughput vs Latency
-- Memory, Accuracy
+- Memory vs Latency
+- Accuracy vs latency vs throughput
 
 ### 12. System Design Case Studies
 - YouTube
